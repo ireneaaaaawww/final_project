@@ -1,4 +1,4 @@
-# Final project: 
+# **Final project**: 
 ## Mineral Ores Around The World
 
 ## About: 
@@ -10,6 +10,6 @@
  - ...
 
 ## URL: 
+[Streamlit app link: ](https://ireneaaaaawww-final-project-app-final-5l21b6.streamlit.app/)
 
 
-# I love Python ! Python is **cool** !
