@@ -1,5 +1,6 @@
 # **Final project**: 
-## Mineral Ores Around The World
+
+## Title: Mineral Ores Around The World
 
 ## About: 
  - Development status
@@ -10,6 +11,6 @@
  - ...
 
 ## URL: 
-[Streamlit app link: ](https://ireneaaaaawww-final-project-app-final-5l21b6.streamlit.app/)
+[Here is the Streamlit app link](https://ireneaaaaawww-final-project-app-final-5l21b6.streamlit.app/)
 
 
